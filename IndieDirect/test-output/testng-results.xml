@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12988" started-at="2018-04-19T11:46:40Z" finished-at="2018-04-19T11:46:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12988" started-at="2018-04-19T11:46:40Z" finished-at="2018-04-19T11:46:53Z">
+      <class name="com.metcash.IndieDirect.TestCases.Testcases_LoginPage">
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.metcash.IndieDirect.TestCases.Testcases_LoginPage@7921b0a2]" name="Before" is-config="true" duration-ms="4066" started-at="2018-04-19T17:16:40Z" finished-at="2018-04-19T17:16:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC01()[pri:0, instance:com.metcash.IndieDirect.TestCases.Testcases_LoginPage@7921b0a2]" name="TC01" duration-ms="2596" started-at="2018-04-19T17:16:44Z" finished-at="2018-04-19T17:16:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01 -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.metcash.IndieDirect.TestCases.Testcases_LoginPage@7921b0a2]" name="Before" is-config="true" duration-ms="3351" started-at="2018-04-19T17:16:47Z" finished-at="2018-04-19T17:16:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC2()[pri:0, instance:com.metcash.IndieDirect.TestCases.Testcases_LoginPage@7921b0a2]" name="TC2" duration-ms="2150" started-at="2018-04-19T17:16:50Z" finished-at="2018-04-19T17:16:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC2 -->
+        <test-method status="PASS" signature="aftertest()[pri:0, instance:com.metcash.IndieDirect.TestCases.Testcases_LoginPage@7921b0a2]" name="aftertest" is-config="true" duration-ms="797" started-at="2018-04-19T17:16:52Z" finished-at="2018-04-19T17:16:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+      </class> <!-- com.metcash.IndieDirect.TestCases.Testcases_LoginPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
