@@ -15,6 +15,9 @@ public class LoginPage {
 	public static final String username_txt = "//*[@id='j_username']";
 	public static final String password_txt = "//*[@id='j_password']";
 	public static final String login_btn = "//*[@id='signIn']";
+	
+	
+	
 
 
 }
